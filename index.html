@@ -22,7 +22,7 @@
       </form>
       <div id = "result"></div>
       <script>
-
+        console.log("The log is working!")
         const buttonElement = document.getElementById("checkButton");
         buttonElement.addEventListener("click", onClick);
 
@@ -43,7 +43,6 @@
                 return response.json();
             })
             .then(data => {
-                console.log("I am here. You can see this.")
                 const resultElement = document.getElementById("result");
                 const prediction = String(data.prediction);
                 const probability = String(data.probability);
