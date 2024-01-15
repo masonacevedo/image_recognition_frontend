@@ -26,12 +26,13 @@
         buttonElement.addEventListener("click", onClick);
 
         function onClick(){
-            const imageFile = document.getElementById("imageInput");
-            if (imageInput.files.length == 0){
-              const resultElement = document.getElementById("result");
+            const imageFileElement = document.getElementById("imageInput");
+            if (imageInputElement.files.length == 0){
+              resultElement = document.getElementById("result");
               resultElement.innerText = "Please make sure you upload an image before checking to see it's a bird!"
               return;
             }
+            imageFile = imageFileElement.files[0];
             const formData = new FormData();
 
             formData.append("user_image",imageFile);
