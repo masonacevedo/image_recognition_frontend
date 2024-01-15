@@ -27,7 +27,7 @@
 
         function onClick(){
             const imageFileElement = document.getElementById("imageInput");
-            if (imageInputElement.files.length == 0){
+            if (imageFileElement.files.length == 0){
               resultElement = document.getElementById("result");
               resultElement.innerText = "Please make sure you upload an image before checking to see it's a bird!"
               return;
