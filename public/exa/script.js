@@ -11,7 +11,11 @@ async function doSearches() {
     const googleResults = document.getElementById("exa-results");
     const li = document.createElement('li');
     li.innerHTML = "foobarbaz";
-    
+    const link = document.createElement('a');
+    link.href = "https://google.com";
+    link.target = "_blank";
+    link.textContent = link.href;
+    li.appendChild(link);
     googleResults.appendChild(li);
     
 }
