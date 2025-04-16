@@ -10,6 +10,7 @@ async function doSearches() {
 
     const googleResults = document.getElementById("exa-results");
     const li = document.createElement('li');
+    li.innerHTML = "foobarbaz";
     
     googleResults.appendChild(li);
     
