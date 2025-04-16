@@ -6,6 +6,11 @@ async function doSearches() {
     console.log("in doSearches");
     const data = await response.json();
     console.log("data:", data);
+    
 
+    const googleResults = document.getElementById("exa-results");
+    const li = document.createElement('li');
+    
+    googleResults.appendChild(li);
     
 }
