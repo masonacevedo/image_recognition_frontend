@@ -1,0 +1,466 @@
+{
+  "search_metadata": {
+    "id": "6800469cc1b31e970466b8c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8bfed7e33abe0b1d/6800469cc1b31e970466b8c3.json",
+    "created_at": "2025-04-17 00:09:00 UTC",
+    "processed_at": "2025-04-17 00:09:00 UTC",
+    "google_url": "https://www.google.com/search?q=nba+basketball&oq=nba+basketball&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8bfed7e33abe0b1d/6800469cc1b31e970466b8c3.html",
+    "total_time_taken": 4.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nba basketball",
+    "google_domain": "google.com",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nba basketball",
+    "total_results": 581000000,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "sports_results": {
+    "title": "NBA",
+    "rankings": "League",
+    "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35b3b33ca883726f10046a247f67c4597257f3fba878cfb2471.png",
+    "games": [
+      {
+        "tournament": "NBA",
+        "venue": "United Center",
+        "venue_kgmid": "/m/02nshs",
+        "status": "Q1 - 01:17",
+        "video_highlights": {
+          "link": "https://stories.nba.com/9c206834-dea3-b9af-7c8c-3a194b4fa2bc",
+          "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337154cf9e5b0a12f67c697ee27481d9152c235cf2ac411ad5003becffb1059684e96a5c519873ecd81fd.jpeg"
+        },
+        "teams": [
+          {
+            "name": "Heat",
+            "score": "36",
+            "kgmid": "/m/0jm2v",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337158ebc282b75761aab0a06f0b4946d56d937c35df5c072a7714413fac28086105c.png"
+          },
+          {
+            "name": "Bulls",
+            "score": "21",
+            "kgmid": "/m/0jm74",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337158ebc282b75761aab65c41915501f60afeac8e023bbcacca59164428f2dc1fdce.png"
+          }
+        ]
+      },
+      {
+        "tournament": "NBA",
+        "venue": "Golden 1 Center",
+        "venue_kgmid": "/m/013dc1cg",
+        "date": "Today",
+        "time": "7:00 PM",
+        "video_highlights": {
+          "link": "https://stories.nba.com/9e2da927-4a55-792e-f3fb-3a194b4fa53f",
+          "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc33715cc6e850ed9a13499e4bf620334f7b400b1dd87d3dac1b17800509a2556a727515abe247da78d1a25.jpeg"
+        },
+        "teams": [
+          {
+            "name": "Mavericks",
+            "kgmid": "/m/0jmcv",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337156fa3b79b5c67699e08eb3fa23c0a771cba83076ded48e98bf7851a41b25b1226.png"
+          },
+          {
+            "name": "Kings",
+            "kgmid": "/m/0jmmn",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337156fa3b79b5c67699e2ad5a1e549f40e8507273f2ec9134fab12a4beea7f08dbe2.png"
+          }
+        ]
+      },
+      {
+        "tournament": "NBA",
+        "venue": "State Farm Arena",
+        "venue_kgmid": "/m/038gvs",
+        "date": "Fri, Apr 18",
+        "time": "4:00 PM",
+        "teams": [
+          {
+            "name": "Hawks",
+            "kgmid": "/m/0jm64",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc33715c31bd9186cec1c053c4e6149324c6945777a70b66d23500ba2dad8fd7d6fa4a4.png"
+          }
+        ]
+      },
+      {
+        "tournament": "NBA",
+        "venue": "Chase Center",
+        "venue_kgmid": "/m/0wdtdnc",
+        "status": "Final",
+        "date": "Yesterday",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=S_KdG2XsWwM&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc33715d1eb30f0e0a12e2e059ee8992e0717bfac6b0850c53b53eefe9f745cb21c6e5674a868320b321aef.jpeg",
+          "duration": "9:37"
+        },
+        "teams": [
+          {
+            "name": "Grizzlies",
+            "score": "116",
+            "kgmid": "/m/0jmfv",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337155933197becc40b13e421949ebe58fee2f52d8540e681765142c89d7e281cf3ae.png"
+          },
+          {
+            "name": "Warriors",
+            "score": "121",
+            "kgmid": "/m/0jmj7",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337155933197becc40b1369b0b715884640eed81ee5a8db7d27a196d5a4276eef4c06.png"
+          }
+        ]
+      },
+      {
+        "tournament": "NBA",
+        "venue": "Kia Center",
+        "venue_kgmid": "/m/025wll1",
+        "status": "Final",
+        "date": "Yesterday",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=qShdH_XJ23w&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc337151dfd70fb0691cc8ec0e0c0b33ecd7f52a38a00696236cb97b34f24a09793fc74e137c39e6a2cd6c1.jpeg",
+          "duration": "12:54"
+        },
+        "teams": [
+          {
+            "name": "Hawks",
+            "score": "95",
+            "kgmid": "/m/0jm64",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc33715d7952a6ffbdd480092f9bad181986bb3cbe124d534ce15fae5196d6deb0a7610.png"
+          },
+          {
+            "name": "Magic",
+            "score": "120",
+            "kgmid": "/m/0jm4b",
+            "thumbnail": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/a24ff78dac58c35bc77dd77b5cc33715d7952a6ffbdd4800ef3bba920cbb621b3085a1544c2091ecf7569c37391560d3.png"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "NBA",
+    "type": "League",
+    "kgmid": "/m/05jvx",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05jvx&hl=en-US&q=NBA",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05jvx&num=10&q=NBA",
+    "image": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7fc4174745dfe08849c5ff74dcaa805da84a729b57ebe3d9.png",
+    "description": "The National Basketball Association is a professional basketball league in North America composed of 30 teams. The NBA is one of the major professional sports leagues in the United States and Canada and is considered the premier professional basketball league in the world.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/National_Basketball_Association"
+    },
+    "headquarters": "New York, NY",
+    "headquarters_links": [
+      {
+        "text": "Headquarters",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=nba+headquarters&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM0qq9DSyk620s8vSk_My6xKLMnMz0PhWGWkJqYUliYWlaQWFS9iFchLSlRAFgIAX5hx1UsAAAA&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q6BMoAHoECC4QAg"
+      },
+      {
+        "text": "New York, NY",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=New+York&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRcRkestm02U4wDIrIInizYBqezVX8Gk5wrWx686UFTou-DOlnOfTOTpn6CKvk2Mth7m7KCQZ_vnGt7ajcDN4F1qyuOgbEUFsF7CYa0Y4tmgmQXoK8lUmoYvoUXEUrnzO5FYAqBh1W2yHSQz0qj7pU8MupPYQ&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QmxMoAXoECC4QAw"
+      }
+    ],
+    "founded": "June 6, 1946, New York, NY",
+    "founded_links": [
+      {
+        "text": "Founded",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=nba+founded&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM0qq9BSzU620s8vSk_My6xKLMnMz0PhWKXll-alpKYsYuXOS0pUgPIAXovlKEEAAAA&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q6BMoAHoECC8QAg"
+      },
+      {
+        "text": "New York, NY",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=New+York&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRcRkestm02U4wDIrIInizYBqezVX8Gk5wrWx686UFTou-DOlnOfTOTpn6CKvk2Mth7m7KCQZ_vnGt7ajcDN4F1qyuOgbEUFsF7CYa0Y4tmgmQXoK8lUmoYvoUXEUrnzO5FYAqBh1W2yHSQz0qj7pU8MupPYQ&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QmxMoAXoECC8QAw"
+      }
+    ],
+    "president": "Adam Silver",
+    "president_links": [
+      {
+        "text": "President",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=nba+president&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM0qq9BSz0620s8vSk_My6xKLMnMz0PhWBUUpRZnpqTmlSxi5c1LSlSA8wEjysLGRQAAAA&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q6BMoAHoECC0QAg"
+      },
+      {
+        "text": "Adam Silver",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=Adam+Silver&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-m8aMXsjXevWMjzUnv_sdQTJx9Cuvm2UXvN_iqheC8LNfIMKfutXF4XE1NNCEcEsrO8MK4hSY7IMnT8JOpHYd6Ih6m0Qsy3corAS5nMinGum8yLXh_TUBbe-Drz1nEzdMGwbinM7CbWnD-Z4dtpqSM4KkTxM&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QmxMoAXoECC0QAw"
+      }
+    ],
+    "first_season": "1946–47",
+    "first_season_links": [
+      {
+        "text": "First season",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=nba+first+season&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q6BMoAHoECCsQAg"
+      }
+    ],
+    "most_titles": "Boston Celtics; (18 titles)",
+    "most_titles_links": [
+      {
+        "text": "Most titles",
+        "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=nba+most+titles&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q6BMoAHoECCwQAg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Smartest Plays of the 2024-25 NBA Season! | Thinking ...",
+      "link": "https://www.youtube.com/watch?v=NAsNrU1coM4",
+      "thumbnail": "https://i.ytimg.com/vi/NAsNrU1coM4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nol5HEHLCBr3ml7bip355x5yIGCA",
+      "channel": "NBA",
+      "duration": "15:40",
+      "platform": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "The importance of basketball IQ, in one play",
+      "link": "https://www.youtube.com/watch?v=mMNDgSkRDEw",
+      "thumbnail": "https://i.ytimg.com/vi/mMNDgSkRDEw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lHv4o7h152msn6Ecq6YeZkIQm2Hg",
+      "channel": "Thinking Basketball",
+      "duration": "5:18",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "Rich Eisen: Why Steph, Curry Jimmy Butler and the Warriors ...",
+      "link": "https://www.youtube.com/watch?v=Hd--WNY9qDI",
+      "thumbnail": "https://i.ytimg.com/vi/Hd--WNY9qDI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mUo-vNFTxN2OUfts99_S73MFaLDA",
+      "channel": "The Rich Eisen Show",
+      "duration": "11:44",
+      "platform": "YouTube"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the oldest NBA team?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+      "displayed_link": null,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8kKdPGtM5vgvV_1KL11cEGOENNLT_SbvbKeP5sOdRsJ9X1SnPDKq2ifC&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG9sZGVzdCBOQkEgdGVhbT8iLCJsayI6IkdodDNhR0YwSUdseklIUm9aU0J2YkdSbGMzUWdibUpoSUhSbFlXMCIsImJzIjoiYy1OeTRKSUp6MGdzVWNnc1ZpakpTRlhJejBsSkxTNVI4SE55VkNoSlRjeTFsX2duWlNRckpWMk9xU1F2S1JHc2hNdUpTelk4b3hJa0M5S1ZVcFJmVUpDWmw2NFFYSkNZa3dKazJFdGNsamVTazVJcGg2Z0JhWU9yS1lhcTRZcmkwb1NhQWJJaHJ6UTNLYlZJd2N4U0lTa3hMeTgxUlNHdEtEOFhMQU8wd1Y2aWc5OUlTMHFqbkJqMVFOdTRJcmcwd2pQeVlXcUxNcE16WUQ0c3lFbXNCT3BMTGkwcVNzMHJ5YW0wbDloZVlLUXBwVjZPcVJ6a2JIVGxBb3dBIiwiaWQiOiJmY19vRVlBYUxtNkVJcmk1Tm9QamFYZy1Ra18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG9sZGVzdCBOQkEgdGVhbT8iLCJsayI6IkdodDNhR0YwSUdseklIUm9aU0J2YkdSbGMzUWdibUpoSUhSbFlXMCIsImJzIjoiYy1OeTRKSUp6MGdzVWNnc1ZpakpTRlhJejBsSkxTNVI4SE55VkNoSlRjeTFsX2duWlNRckpWMk9xU1F2S1JHc2hNdUpTelk4b3hJa0M5S1ZVcFJmVUpDWmw2NFFYSkNZa3dKazJFdGNsamVTazVJcGg2Z0JhWU9yS1lhcTRZcmkwb1NhQWJJaHJ6UTNLYlZJd2N4U0lTa3hMeTgxUlNHdEtEOFhMQU8wd1Y2aWc5OUlTMHFqbkJqMVFOdTRJcmcwd2pQeVlXcUxNcE16WUQ0c3lFbXNCT3BMTGkwcVNzMHJ5YW0wbDloZVlLUXBwVjZPcVJ6a2JIVGxBb3dBIiwiaWQiOiJmY19vRVlBYUxtNkVJcmk1Tm9QamFYZy1Ra18zIn0%3D"
+    },
+    {
+      "question": "Why is NBA dropping Spalding?",
+      "snippet": "While Wilson might've been the highest bidder in negotiations, sources believe the leagued ended the 30-year partnership with Spalding as a strategic move to repair its lucrative relationship with China, which has been icy since Philadelphia 76ers president of basketball operations Daryl Morey's tweet in support of ...",
+      "title": "Wilson NCAA Basketball Controversy Follows NBA Switch From Spalding",
+      "date": "Apr 4, 2022",
+      "link": "https://www.sportico.com/leagues/basketball/2022/wilson-ncaa-basketball-controversy-follows-nba-break-and-switch-ncaa-spalding-1234670378/#:~:text=While%20Wilson%20might've%20been,Morey's%20tweet%20in%20support%20of",
+      "displayed_link": "https://www.sportico.com › leagues › wilson-ncaa-basket...",
+      "source_logo": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/ce9e9a4005a7c5a25ed3e93f1d8575bb4a9cadc75a8c3b0c623539572cc199e7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoeSBpcyBOQkEgZHJvcHBpbmcgU3BhbGRpbmc/IiwibGsiOiJHaHgzYUhrZ2FYTWdibUpoSUdSeWIzQndhVzVuSUhOd1lXeGthVzVuIiwiYnMiOiJjLU55NEpJSnowZ3NVY2dzVmlqSlNGWEl6MGxKTFM1UjhITnlWQ2hKVGN5MWxfZ25aU1FySlYyT3FTUXZLUkdzaE11SlN6WThveElrQzlLVlVwUmZVSkNabDY0UVhKQ1lrd0prMkV0Y2xqZVNrNUlwaDZnQmFZT3JLWWFxNFlyaTBvU2FBYklocnpRM0tiVkl3Y3hTSVNreEx5ODFSU0d0S0Q4WExBTzB3VjZpZzk5SVMwcWpuQmoxUU51NElyZzB3alB5WVdxTE1wTXpZRDRzeUVtc0JPcExMaTBxU3MwcnlhbTBsOWhlWUtRcHBWNk9xUnprYkhUbEFvd0EiLCJpZCI6ImZjX29FWUFhTG02RUlyaTVOb1BqYVhnLVFrXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoeSBpcyBOQkEgZHJvcHBpbmcgU3BhbGRpbmc%2FIiwibGsiOiJHaHgzYUhrZ2FYTWdibUpoSUdSeWIzQndhVzVuSUhOd1lXeGthVzVuIiwiYnMiOiJjLU55NEpJSnowZ3NVY2dzVmlqSlNGWEl6MGxKTFM1UjhITnlWQ2hKVGN5MWxfZ25aU1FySlYyT3FTUXZLUkdzaE11SlN6WThveElrQzlLVlVwUmZVSkNabDY0UVhKQ1lrd0prMkV0Y2xqZVNrNUlwaDZnQmFZT3JLWWFxNFlyaTBvU2FBYklocnpRM0tiVkl3Y3hTSVNreEx5ODFSU0d0S0Q4WExBTzB3VjZpZzk5SVMwcWpuQmoxUU51NElyZzB3alB5WVdxTE1wTXpZRDRzeUVtc0JPcExMaTBxU3MwcnlhbTBsOWhlWUtRcHBWNk9xUnprYkhUbEFvd0EiLCJpZCI6ImZjX29FWUFhTG02RUlyaTVOb1BqYVhnLVFrXzMifQ%3D%3D"
+    },
+    {
+      "question": "Why is the number 69 banned from the NBA?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+      "list": [
+        "No official ban: The NBA has not issued a formal rule prohibiting the number 69.  ",
+        "Perceived connotations: The number 69 is often associated with sexual activity, leading to concerns about family-friendliness and potential offense.  ",
+        "Unofficial discouragement: Players have been denied requests to wear 69, suggesting an unofficial rule against it. For example, Dennis Rodman was reportedly refused when he requested the number when joining the Dallas Mavericks and instead wore 70.  ",
+        "No players have worn it: No NBA player has ever worn 69 in a game, further supporting the notion that it's unofficially discouraged, according to Reddit.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoeSBpcyB0aGUgbnVtYmVyIDY5IGJhbm5lZCBmcm9tIHRoZSBOQkE/IiwibGsiOiJjNVBTS00tb1ZNZ3NWaWpKU0ZYSUs4MU5TaTFTTUxOVVNFck15MHROVVVncnlzLUZ5Q1FsQWdBIiwiYnMiOiJjLU55NEpJSnowZ3NVY2dzVmlqSlNGWEl6MGxKTFM1UjhITnlWQ2hKVGN5MWxfZ25aU1FySlYyT3FTUXZLUkdzaE11SlN6WThveElrQzlLVlVwUmZVSkNabDY0UVhKQ1lrd0prMkV0Y2xqZVNrNUlwaDZnQmFZT3JLWWFxNFlyaTBvU2FBYklocnpRM0tiVkl3Y3hTSVNreEx5ODFSU0d0S0Q4WExBTzB3VjZpZzk5SVMwcWpuQmoxUU51NElyZzB3alB5WVdxTE1wTXpZRDRzeUVtc0JPcExMaTBxU3MwcnlhbTBsOWhlWUtRcHBWNk9xUnprYkhUbEFvd0EiLCJpZCI6ImZjX29FWUFhTG02RUlyaTVOb1BqYVhnLVFrXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldoeSBpcyB0aGUgbnVtYmVyIDY5IGJhbm5lZCBmcm9tIHRoZSBOQkE%2FIiwibGsiOiJjNVBTS00tb1ZNZ3NWaWpKU0ZYSUs4MU5TaTFTTUxOVVNFck15MHROVVVncnlzLUZ5Q1FsQWdBIiwiYnMiOiJjLU55NEpJSnowZ3NVY2dzVmlqSlNGWEl6MGxKTFM1UjhITnlWQ2hKVGN5MWxfZ25aU1FySlYyT3FTUXZLUkdzaE11SlN6WThveElrQzlLVlVwUmZVSkNabDY0UVhKQ1lrd0prMkV0Y2xqZVNrNUlwaDZnQmFZT3JLWWFxNFlyaTBvU2FBYklocnpRM0tiVkl3Y3hTSVNreEx5ODFSU0d0S0Q4WExBTzB3VjZpZzk5SVMwcWpuQmoxUU51NElyZzB3alB5WVdxTE1wTXpZRDRzeUVtc0JPcExMaTBxU3MwcnlhbTBsOWhlWUtRcHBWNk9xUnprYkhUbEFvd0EiLCJpZCI6ImZjX29FWUFhTG02RUlyaTVOb1BqYVhnLVFrXzMifQ%3D%3D"
+    },
+    {
+      "question": "Who is the richest NBA player currently?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://www.forbes.com/sites/brettknight/2024/10/21/the-nbas-highest-paid-players-2024/",
+      "list": [
+        "LeBron James: His wealth comes from a combination of his high NBA salary, endorsement deals (e.g., with Nike, Coca-Cola), and his own business ventures, including a stake in the SpringHill Company. His total earnings, including on-court and off-court income, were a record-breaking $128.7 million in 2024, according to Forbes.  ",
+        "Stephen Curry: While not as high as James, Curry's net worth is also significant, driven by his high salary and lucrative endorsement deals, as reported in the Forbes article.  ",
+        "Other Notable Richest Players: Other players with significant net worths include Kevin Durant, Russell Westbrook, and James Harden.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgcmljaGVzdCBOQkEgcGxheWVyIGN1cnJlbnRseT8iLCJsayI6IkdpZDNhRzhnYVhNZ2RHaGxJSEpwWTJobGMzUWdibUpoSUhCc1lYbGxjaUJqZFhKeVpXNTBiSGsiLCJicyI6ImMtTnk0SklKejBnc1VjZ3NWaWpKU0ZYSXowbEpMUzVSOEhOeVZDaEpUY3kxbF9nblpTUXJKVjJPcVNRdktSR3NoTXVKU3pZOG94SWtDOUtWVXBSZlVKQ1psNjRRWEpDWWt3SmsyRXRjbGplU2s1SXBoNmdCYVlPcktZYXE0WXJpMG9TYUFiSWhyelEzS2JWSXdjeFNJU2t4THk4MVJTR3RLRDhYTEFPMHdWNmlnOTlJUzBxam5CajFRTnU0SXJnMHdqUHlZV3FMTXBNellENHN5RW1zQk9wTExpMHFTczByeWFtMGw5aGVZS1FwcFY2T3FSemtiSFRsQW93QSIsImlkIjoiZmNfb0VZQWFMbTZFSXJpNU5vUGphWGctUWtfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoalJYaHRRa2RyT1c5MFZWaE5ZekpaV2kxVVpHWnJUM2xmWjBzM1lqVnJPV2MzZERaQ2ExcDRWR3d4V1VKUGVXc3RWM05GWHpaaFgxZHJlbEJzTTIxdGFtZHFOekIyUVZCaFNXRkpObGRzVGpkTVlsVjNTVk42YTNKcGR4SVhiMFZaUVdGTWJUWkZTWEpwTlU1dlVHcGhXR2N0VVdzYUlrRkRSRmhNTkc1elFtbDBTRXh0UzNCMWVDMTViRlZCUWt0U2MwMXdOVWR6UVdjIiwiZmN2IjoiMyIsImVpIjoib0VZQWFMbTZFSXJpNU5vUGphWGctUWsiLCJxYyI6IkNnNXVZbUVnWW1GemEyVjBZbUZzYkJBQWZmN1NSRDgiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgcmljaGVzdCBOQkEgcGxheWVyIGN1cnJlbnRseT8iLCJsayI6IkdpZDNhRzhnYVhNZ2RHaGxJSEpwWTJobGMzUWdibUpoSUhCc1lYbGxjaUJqZFhKeVpXNTBiSGsiLCJicyI6ImMtTnk0SklKejBnc1VjZ3NWaWpKU0ZYSXowbEpMUzVSOEhOeVZDaEpUY3kxbF9nblpTUXJKVjJPcVNRdktSR3NoTXVKU3pZOG94SWtDOUtWVXBSZlVKQ1psNjRRWEpDWWt3SmsyRXRjbGplU2s1SXBoNmdCYVlPcktZYXE0WXJpMG9TYUFiSWhyelEzS2JWSXdjeFNJU2t4THk4MVJTR3RLRDhYTEFPMHdWNmlnOTlJUzBxam5CajFRTnU0SXJnMHdqUHlZV3FMTXBNellENHN5RW1zQk9wTExpMHFTczByeWFtMGw5aGVZS1FwcFY2T3FSemtiSFRsQW93QSIsImlkIjoiZmNfb0VZQWFMbTZFSXJpNU5vUGphWGctUWtfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The official site of the NBA for the latest NBA Scores, Stats ...",
+      "link": "https://www.nba.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nba.com/&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QFnoECBsQAQ",
+      "displayed_link": "https://www.nba.com",
+      "favicon": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7a475fca7dd4ab9d52eb4832bf3d39199ec205c03a01c43bf8f499022e5f0302.png",
+      "snippet": "Follow the action on NBA scores, schedules, stats, news, teams, and players. Buy tickets or watch the games anywhere with NBA League Pass.",
+      "snippet_highlighted_words": [
+        "NBA",
+        "NBA"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "NBA Games & Scores",
+            "link": "https://www.nba.com/games",
+            "snippet": "NBA BAL Icon. Basketball Africa League. Sign In. Sign in ..."
+          },
+          {
+            "title": "Watch",
+            "link": "https://www.nba.com/watch/featured",
+            "snippet": "BAL Season 5 · BAL 2025 - BAL Daily Episode 6 · Full Game ..."
+          },
+          {
+            "title": "NBA Schedule",
+            "link": "https://www.nba.com/schedule",
+            "snippet": "WNBA Icon. WNBA. NBA 2K Icon. NBA 2K League. NBA BAL Icon ..."
+          },
+          {
+            "title": "Standings",
+            "link": "https://www.nba.com/standings",
+            "snippet": "WNBA Icon. WNBA. NBA 2K Icon. NBA 2K League. NBA BAL Icon ..."
+          },
+          {
+            "title": "News",
+            "link": "https://www.nba.com/news",
+            "snippet": "Latest · Top Stories. Dumars named Pelicans' exec. VP of ..."
+          }
+        ]
+      },
+      "source": "NBA"
+    },
+    {
+      "position": 2,
+      "title": "NBA on ESPN - Scores, Stats and Highlights",
+      "link": "https://www.espn.com/nba/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.espn.com/nba/&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QFnoECEEQAQ",
+      "displayed_link": "https://www.espn.com › nba",
+      "favicon": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7a475fca7dd4ab9d52eb4832bf3d391980b3f7cc15f84adaa3aed1a3e73f12f6.png",
+      "snippet": "Visit ESPN for NBA live scores, video highlights and latest news. Stream games on ESPN and play Fantasy Basketball.",
+      "snippet_highlighted_words": [
+        "NBA live scores, video highlights and latest news"
+      ],
+      "source": "ESPN"
+    },
+    {
+      "position": 3,
+      "title": "NBA Scores, 2024-25 Season",
+      "link": "https://www.espn.com/nba/scoreboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.espn.com/nba/scoreboard&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QFnoECEIQAQ",
+      "displayed_link": "https://www.espn.com › nba › scoreboard",
+      "favicon": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7a475fca7dd4ab9d52eb4832bf3d39196dc95f22f46608905a39729e08e8fa39.png",
+      "snippet": "Live scores for every 2024-25 NBA season game on ESPN. Includes box scores, video highlights, play breakdowns and updated odds.",
+      "snippet_highlighted_words": [
+        "Live scores for every 2024-25 NBA season game on ESPN"
+      ],
+      "source": "ESPN"
+    },
+    {
+      "position": 4,
+      "title": "NBA (@nba) • Instagram photos and videos",
+      "link": "https://www.instagram.com/nba/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/nba/%3Fhl%3Den&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QFnoECEkQAQ",
+      "displayed_link": "90.4M+ followers",
+      "favicon": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7a475fca7dd4ab9d52eb4832bf3d3919ff9ee7d66b5c5ecf5854f8534e44e9ef.png",
+      "snippet": "90M Followers, 1280 Following, 87K Posts - NBA (@nba) on Instagram: \"#SoFiPlayIn on ESPN ⤵️ 7:30pm/et: HEAT/BULLS 10:00pm/et: MAVERICKS/KINGS Download the ...",
+      "snippet_highlighted_words": [
+        "NBA"
+      ],
+      "source": "Instagram · nba"
+    },
+    {
+      "position": 5,
+      "title": "NBA",
+      "link": "https://www.youtube.com/nba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/nba&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8QFnoECEwQAQ",
+      "displayed_link": "22.9M+ followers",
+      "favicon": "https://serpapi.com/searches/6800469cc1b31e970466b8c3/images/7a475fca7dd4ab9d52eb4832bf3d39198d2052dd60b885397d131e656daa12a7.png",
+      "snippet": "The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries ...",
+      "snippet_highlighted_words": [
+        "The NBA is the premier professional basketball league in the United States and Canada"
+      ],
+      "source": "YouTube · NBA"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&udm=7&q=nba+basketball&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8ccDKAR6BAhkEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NBA basketball tickets",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=NBA+basketball+tickets&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=NBA+basketball+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Nba basketball players",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=Nba+basketball+players&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=Nba+basketball+players"
+    },
+    {
+      "block_position": 1,
+      "query": "Nba basketball teams",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=Nba+basketball+teams&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=Nba+basketball+teams"
+    },
+    {
+      "block_position": 1,
+      "query": "NBA standings",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=NBA+standings&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=NBA+standings"
+    },
+    {
+      "block_position": 1,
+      "query": "Nba basketball today",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=Nba+basketball+today&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=Nba+basketball+today"
+    },
+    {
+      "block_position": 1,
+      "query": "NBA lineup",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=NBA+lineup&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=NBA+lineup"
+    },
+    {
+      "block_position": 1,
+      "query": "NBA scores",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=NBA+scores&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=NBA+scores"
+    },
+    {
+      "block_position": 1,
+      "query": "NBA schedule",
+      "link": "https://www.google.com/search?sca_esv=622bcc00fce5d9ed&q=NBA+schedule&sa=X&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=NBA+schedule"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=10&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=10&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=20&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=30&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=40&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=50&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=60&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=70&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=80&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=nba+basketball&sca_esv=622bcc00fce5d9ed&ei=oEYAaLm6EIri5NoPjaXg-Qk&start=90&sa=N&sstk=Af40H4U5z1eVbLlr0edonsGnaLpH3UokUH0EovjfSZsB31dCrbYFwf8DJQVr7fwNwguwcHY37W0vgXpdyrHQlzHnNRQI-JeFt5YCvw&ved=2ahUKEwi5iqyt492MAxUKMVkFHY0SOJ8Q8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=nba+basketball&start=90"
+    }
+  }
+}
