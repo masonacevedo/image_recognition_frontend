@@ -1,0 +1,102 @@
+{
+  "requestId": "68b7cd7571585f5537043c5d94d28da5",
+  "autopromptString": "nhl hockey",
+  "resolvedSearchType": "keyword",
+  "results": [
+    {
+      "id": "https://www.nhl.com/",
+      "title": "NHL.com: Official Site of the National Hockey League",
+      "url": "https://www.nhl.com/",
+      "publishedDate": "2024-06-14T00:00:00.000Z",
+      "author": ""
+    },
+    {
+      "id": "https://www.nhl.com/",
+      "title": "Official Site of the National Hockey League | NHL.com",
+      "url": "https://www.nhl.com/",
+      "publishedDate": "2024-06-14T00:00:00.000Z",
+      "author": "",
+      "score": 0.9346522688865662
+    },
+    {
+      "id": "https://www.espn.com/nhl/",
+      "title": "NHL on ESPN - Scores, Stats and Highlights",
+      "url": "https://www.espn.com/nhl/",
+      "publishedDate": "2025-04-17T15:40:29.000Z",
+      "author": "Rachel Doerrie",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnhl.png",
+      "favicon": "https://a.espncdn.com/prod/assets/icons/E.svg"
+    },
+    {
+      "id": "https://sports.yahoo.com/nhl/scoreboard/",
+      "title": "NHL Game Scores & Results - Yahoo Sports",
+      "url": "https://sports.yahoo.com/nhl/scoreboard/",
+      "publishedDate": "2024-04-20T16:56:25.000Z",
+      "author": "",
+      "image": "https://s.yimg.com/it/api/res/1.2/Nm.Q9ktBFq1bB8joIv0bCw--~A/YXBwaWQ9eW5ld3M7dz0xMjAwO2g9NjMwO3E9MTAw/https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/icons/favicon_y112_112.png"
+    },
+    {
+      "id": "https://www.cbssports.com/nhl/scoreboard/",
+      "title": "NHL Scores - CBSSports.com",
+      "url": "https://www.cbssports.com/nhl/scoreboard/",
+      "publishedDate": "2024-07-06T00:00:00.000Z",
+      "author": "",
+      "image": "https://sportsfly.cbsistatic.com/fly-0731/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+      "favicon": "https://www.cbssports.com/favicon-32x32.png"
+    },
+    {
+      "id": "https://www.espn.com/nhl/teams",
+      "title": "NHL Teams - ESPN",
+      "url": "https://www.espn.com/nhl/teams",
+      "publishedDate": "2025-04-16T17:50:00.000Z",
+      "author": "Marco Wutz",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nhl.png",
+      "favicon": "https://a.espncdn.com/prod/assets/icons/E.svg"
+    },
+    {
+      "id": "https://en.wikipedia.org/wiki/National_Hockey_League",
+      "title": "National Hockey League - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Hockey_League",
+      "publishedDate": "2025-04-17T13:05:40.000Z",
+      "author": "Contributors to Wikimedia projects",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/640px-05_NHL_Shield.svg.png",
+      "favicon": "https://en.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "id": "https://sports.yahoo.com/nhl/",
+      "title": "NHL News, Video, Rumors, Scores, Stats, Standings - Yahoo Sports",
+      "url": "https://sports.yahoo.com/nhl/",
+      "publishedDate": "2024-06-16T00:00:00.000Z",
+      "author": "",
+      "image": "https://s.yimg.com/it/api/res/1.2/Nm.Q9ktBFq1bB8joIv0bCw--~A/YXBwaWQ9eW5ld3M7dz0xMjAwO2g9NjMwO3E9MTAw/https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/icons/favicon_y112_112.png"
+    },
+    {
+      "id": "https://www.nhl.com/fr",
+      "title": "Le site officiel de la Ligue nationale de hockey | LNH.com",
+      "url": "https://www.nhl.com/fr",
+      "publishedDate": "2025-04-15T00:00:00.000Z",
+      "author": "",
+      "score": 0.3470616638660431,
+      "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1697743790/prd/assets/nhl/logos/nhl_2568x1144.png",
+      "favicon": "https://www.nhl.com/assets/icons/fav/nhl/favicon-32x32.png"
+    },
+    {
+      "id": "https://www.hockey-reference.com/",
+      "title": "NHL Stats, History, Scores, Standings, Playoffs, Schedule & Records | Hockey-Reference.com",
+      "url": "https://www.hockey-reference.com/",
+      "publishedDate": "2025-03-26T00:00:00.000Z",
+      "author": "",
+      "score": 0.3449643850326538,
+      "image": "https://cdn.ssref.net/req/202503031/favicons/hr/apple-touch-icon-228x228-precomposed.png",
+      "favicon": "https://cdn.ssref.net/req/202503031/favicons/hr/favicon-32.png"
+    }
+  ],
+  "costDollars": {
+    "total": 0.005,
+    "search": {
+      "neural": 0.005
+    }
+  }
+}
