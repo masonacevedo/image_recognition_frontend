@@ -1,3 +1,5 @@
+import { readFile, writeFile } from 'fs/promises';
+
 export default async function handler(req, res) {
     console.log("exa handler");
   const query = req.query.q;
@@ -22,6 +24,7 @@ export default async function handler(req, res) {
     });
   const data = await response.json();
     console.log("data:", data);
+    await writeFile("nhl_data.json", JSON.stringify(data, null, 2));
 
   res.status(200).json(data);
 }
