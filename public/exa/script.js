@@ -6,13 +6,17 @@ async function doSearches() {
 
     const google_response = await fetch(`/api/google_search?q=${encodeURIComponent(query)}`);
     const google_data = await google_response.json();
-    const google_links = getGoogleResults(google_data);
+    let google_links = getGoogleResults(google_data);
 
     const exa_response = await fetch(`/api/exa_search?q=${encodeURIComponent(query)}`);
     const exa_data = await exa_response.json();
-    const exa_links = getExaResults(exa_data);
+    let exa_links = getExaResults(exa_data);
 
+    const smallerLength = Math.min(google_links.length, exa_links.length);
 
+    
+    google_links = google_links.slice(0, smallerLength);
+    exa_links = exa_links.slice(0, smallerLength);
     
     displayResults("exa-results", exa_links);
     displayResults("google-results", google_links);
