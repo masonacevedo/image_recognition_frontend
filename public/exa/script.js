@@ -1,6 +1,9 @@
 async function doSearches() {
 
 
+    const spinner = document.getElementById('spinner');
+    spinner.style.display = 'block';  // show spinner
+
     document.getElementById("exa-results").innerHTML = '';
     document.getElementById("google-results").innerHTML = '';
     
