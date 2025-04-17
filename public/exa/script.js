@@ -8,6 +8,7 @@ async function doSearches() {
     console.log("data:", data);
     
     const googleResults = document.getElementById("google-results");
+    let count = 0;
     for (const key in data.organic_results){
         console.log("data.organic_results[key].link", data.organic_results[key].link);
 
@@ -19,6 +20,10 @@ async function doSearches() {
         link.textContent = link.href;
         li.appendChild(link);
         googleResults.appendChild(li);
+        count += 1;
+        if (count === 10) {
+            break;
+        }
     }
     
 }
