@@ -10,7 +10,6 @@ async function doSearches() {
     const googleResults = document.getElementById("google-results");
     let count = 0;
     for (const key in data.organic_results){
-        console.log("data.organic_results[key].link", data.organic_results[key].link);
 
         const li = document.createElement('li');
         li.innerHTML = '';
