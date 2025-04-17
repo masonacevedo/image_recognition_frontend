@@ -4,16 +4,73 @@
 	<head>
 		<meta charset="utf-8">
 		<title> Is Bird? </title>
-		<style>
-		h1 {
-			color: rgb(0,0,139);
-			text-align: center;
-			font-family: Verdana, Helvetica, sans-serif;
-			position: relative;
-		}
-        .results-comparison { display: flex; gap: 2rem; }
-        .column { flex: 1;}
-		</style>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f9fc;
+            margin: 0;
+            padding: 2rem;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            color: #001f77;
+        }
+        .search-bar {
+            display: flex;
+            justify-content: center;
+            margin: 1.5rem 0;
+        }
+        input[type="text"] {
+            font-size: 1rem;
+            padding: 0.5rem 1rem;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+        button {
+            font-size: 1rem;
+            padding: 0.5rem 1rem;
+            margin-left: 0.5rem;
+            border: 1px solid #999;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+        .results-comparison {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 2rem;
+            gap: 4rem;
+        }
+        .column {
+            flex: 1;
+        }
+        h2 {
+            font-size: 1.5rem;
+            color: #222;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.25rem;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 0.75rem;
+        }
+        a {
+            text-decoration: none;
+            color: #0044cc;
+        }
+        a:hover {
+            text-decoration: underline;
+            color: #001f77;
+        }
+    </style>
+
 	</head>
 	<body>
 		<h1 id = "search-comparison-text">
