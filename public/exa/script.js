@@ -1,9 +1,14 @@
 async function doSearches() {
+
+
+    document.getElementById("exa-results").innerHTML = '';
+    document.getElementById("google-results").innerHTML = '';
+    
     let query = document.getElementById('query-input-box').value;
     if (query === ''){
         return
     }
-
+    
     const google_response = await fetch(`/api/google_search?q=${encodeURIComponent(query)}`);
     const google_data = await google_response.json();
     let google_links = getGoogleResults(google_data);
