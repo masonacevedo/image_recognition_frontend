@@ -13,12 +13,17 @@ async function doSearches() {
             return
         }
 
-        const google_response = await fetch(`/api/google_search?q=${encodeURIComponent(query)}`);
-        const google_data = await google_response.json();
-        let google_links = getGoogleResults(google_data);
+        const [google_response, exa_response] = await Promise.all([
+            fetch(`/api/google_search?q=${encodeURIComponent(query)}`),
+            fetch(`/api/exa_search?q=${encodeURIComponent(query)}`)
+        ]);
 
-        const exa_response = await fetch(`/api/exa_search?q=${encodeURIComponent(query)}`);
-        const exa_data = await exa_response.json();
+        const [google_data, exa_data] = await Promise.all([
+            google_response.json(),
+            exa_response.json()
+        ]);
+
+        let google_links = getGoogleResults(google_data);
         let exa_links = getExaResults(exa_data);
 
         const smallerLength = Math.min(google_links.length, exa_links.length);
