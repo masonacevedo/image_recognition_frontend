@@ -8,6 +8,7 @@ async function doSearches() {
     console.log("data:", data);
     
     const googleResults = document.getElementById("google-results");
+    googleResults.innerHTML = '';
     let count = 0;
     for (const key in data.organic_results){
 
