@@ -1,6 +1,16 @@
+function enableVote(){
+    document.getElementById("vote-exa").disabled = false;
+    document.getElementById("vote-google").disabled = false;
+}
+
+function disableVote(){
+    document.getElementById("vote-exa").disabled = true;
+    document.getElementById("vote-google").disabled = true;
+}
+
 async function doSearches() {
 
-
+    disableVote()
     const spinner = document.getElementById('spinner');
     spinner.style.display = 'block';  // show spinner
 
@@ -38,6 +48,7 @@ async function doSearches() {
         alert("Something went wrong. Check the console.");
     } finally {
         spinner.style.display = 'none'; // hide spinner
+        enableVote()
     }
 }
 
