@@ -8,9 +8,31 @@ function disableVote(){
     document.getElementById("vote-google").disabled = true;
 }
 
+async function recordVote(preferredSearchEngine){
+    disableVote()
+	document.getElementById("exa-votes").textContent = "Loading";
+	document.getElementById("google-votes").textContent = "Loading...";
+    await fetch(`/api/record_vote?q=${preferredSearchEngine}`);
+    getVotes()
+}
+
+async function getVotes() {
+    disableVote()
+	try {
+		const response = await fetch("/api/get_votes");
+		const data = await response.json();
+		document.getElementById("exa-votes").textContent = data['exa'];
+		document.getElementById("google-votes").textContent = data['google'];
+	} catch (err) {
+		console.error("Failed to fetch vote totals:", err);
+		document.getElementById("vote-totals").textContent = "Error loading vote totals.";
+	}
+}
+
+
+
 async function doSearches() {
 
-    disableVote()
     const spinner = document.getElementById('spinner');
     spinner.style.display = 'block';  // show spinner
 
@@ -89,3 +111,6 @@ function getGoogleResults(data){
     }
     return ans;
 }
+
+window.addEventListener("DOMContentLoaded", getVotes);
+

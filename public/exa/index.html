@@ -91,6 +91,27 @@
             100% { transform: rotate(360deg); }
         }
 
+        #voting-results {
+	        text-align: center;
+	        margin-top: 2rem;
+        }
+
+        .vote-columns {
+	        display: flex;
+	        justify-content: center;
+	        gap: 2rem;
+	        margin-top: 1rem;
+        }
+
+        .vote-column {
+	        flex: 1;
+	        max-width: 200px;
+	        padding: 1rem;
+	        background-color: #f0f0f0;
+	        border-radius: 8px;
+        }
+
+
     </style>
 
 	</head>
@@ -114,9 +135,22 @@
         </div>
         <div id="vote-section" style="text-align: center; margin-top: 2rem;">
             <p id="vote-info">After making a search, you can vote for which results you like more.</p>
+            <p>(Only one vote per search though!)</p>
             <button id="vote-exa" onclick="recordVote('exa')" disabled>Exa</button>
             <button id="vote-google" onclick="recordVote('google')" disabled>Google</button>
-            <p id="vote-result" style="margin-top: 1rem;"></p>
+            <div id="voting-results">
+	            <h3>Vote Totals (since this website has existed)</h3>
+	            <div class="vote-columns">
+		            <div class="vote-column">
+			            <p>Exa</p>
+			            <p id="exa-votes">Loading...</p>
+		            </div>
+		            <div class="vote-column">
+			            <p>Google</p>
+			            <p id="google-votes">Loading...</p>
+		            </div>
+	            </div>
+            </div>
         </div>
 
 
