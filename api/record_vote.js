@@ -6,6 +6,7 @@ const redis = new Redis({
 });
 
 export default async function handler(req, res) {
+    const preferred_search_engine = req.query.q;
     try {
         await redis.incr(preferred_search_engine);
         res.status(200).json({ success: true });
