@@ -90,7 +90,7 @@ function displayResults(htmlResultsId, queryLinks){
         li.appendChild(link);
         results.appendChild(li);
         count += 1;
-        if (count === 10) {
+        if (count === 5) {
             break;
         }
     }
